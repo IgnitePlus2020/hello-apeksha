@@ -4,6 +4,6 @@ public class App
 {
     public static void main(String[] args)
     {
-        System.out.println("welcome to ignite");
+        System.out.println("Welcome to ignite plus");
     }
 }
